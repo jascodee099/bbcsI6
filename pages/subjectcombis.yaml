@@ -1,0 +1,8 @@
+# this yaml sheet links the email to the subject combination
+email:
+  nseriouslynoots@gmail.com:
+    - Physics
+    - Chemistry
+    - Mathematics
+    - Economics
+
